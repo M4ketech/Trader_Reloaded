@@ -1,0 +1,8 @@
+//<'Trader.pbo' properties via Mikero's dos tools, dll version 8.90>
+mikero=DePbo.dll.7.16;
+prefix=TM\Trader;
+product=dayz ugc;
+revision=1;
+version=Mon Feb 15 21:17:34 2021;
+//PboType=Arma Addon;
+//</properties>
