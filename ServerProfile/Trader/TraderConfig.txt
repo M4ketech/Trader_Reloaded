@@ -580,7 +580,6 @@
     		TacticalGloves_Green,	*,		35,		10
     		OMNOGloves_Gray,		*,		40,		12
     		OMNOGloves_Brown,		*,		40,		12
-    		NBCGlovesGray,			*,		65,		20
 
     	<Category> Hats & Caps
     		MedicalScrubsHat_Blue,	*,		2,		1
@@ -652,7 +651,6 @@
     		Ushanka_Blue,			*,		50,		15
     		Ushanka_Black,			*,		50,		15
     		Ushanka_Green,			*,		55,		18
-    		NBCHoodGray,			*,		100,	30
 
     	<Category> Helmets
     		ConstructionHelmet_Yellow,*,	30,		7
@@ -884,7 +882,6 @@
     		GorkaEJacket_Summer,	*,		140,	45
     		USMCJacket_Desert,		*,		140,	45
     		USMCJacket_Woodland,	*,		155,	55
-    		NBCJacketGray,			*,		250,	80
 
     	<Category> Skirts & Dresses
     		Skirt_Yellow,			*,		30,		10
@@ -981,7 +978,6 @@
     		GorkaPants_PautRev,		*,		130,	40
     		GorkaPants_Autumn,		*,		130,	40
     		GorkaPants_Summer,		*,		130,	40
-    		NBCPantsGray,			*,		200,	65
 
     	<Category> Shoes & Boots
     		AthleticShoes_Blue,		*,		17,		4
@@ -1035,7 +1031,6 @@
     		MilitaryBoots_Beige,	*,		110,	35
     		MilitaryBoots_Brown,	*,		110,	35
     		MilitaryBoots_Black,	*,		110,	35
-    		NBCBootsGray,			*,		150,	50
 
     	<Category> Ghillie
     		// Keep in Mind that Players can also
